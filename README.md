@@ -2,6 +2,7 @@
 
 ## Introduction
 Welcome to the XO Game repository! This project is a Python-based implementation of the classic game Tic Tac Toe (also known as XO). It's developed using the PyQt5 framework, which provides a robust and user-friendly graphical user interface.
+![image](https://github.com/Younessboumlik/XO_Game/assets/104656844/d964e441-d8f8-4898-ac1d-b8264afd12b4)
 ![image](https://github.com/Younessboumlik/XO_Game/assets/104656844/4ed41e91-d993-421e-b9d4-1d9661ce1189)
 
 
